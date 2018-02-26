@@ -1,13 +1,18 @@
 # Find-Center-of-Contour
+
+This code is running at OpenCv 3.4.x and Python 3.6.x
 <br/>
-There are some photos about the running codes.
+The original image
+![Original image](https://github.com/ftural/Find-Center-of-Contour/blob/master/image1.jpeg)
 <br/>
-Firstly,the original image is;
-![Image1](https://github.com/ftural/Find-Center-of-Contour/blob/master/image1.jpeg)
+Masking color
+![Masking Color](https://github.com/ftural/Opencv/blob/master/red%20and%20green.JPG)
 <br/>
-Secondly,the masked image is;
-![Image2](https://github.com/ftural/Find-Center-of-Contour/blob/master/2.JPG)
+Edge Map
+![Edge Map](https://github.com/ftural/Opencv/blob/master/edge%20map.JPG)
 <br/>
-Thirdly,the centers of contours are;
-![Image3](https://github.com/ftural/Find-Center-of-Contour/blob/master/3.JPG)
+Unsorted Image
+![Unsorted Image](https://github.com/ftural/Opencv/blob/master/unsorted.JPG)
 <br/>
+Sorted Image
+![Sorted Image](https://github.com/ftural/Opencv/blob/master/sorted.JPG)
